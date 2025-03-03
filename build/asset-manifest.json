@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/social-media-cyberpunk/static/css/main.e355b4bd.css",
+    "main.js": "/social-media-cyberpunk/static/js/main.7320c099.js",
+    "index.html": "/social-media-cyberpunk/index.html",
+    "main.e355b4bd.css.map": "/social-media-cyberpunk/static/css/main.e355b4bd.css.map",
+    "main.7320c099.js.map": "/social-media-cyberpunk/static/js/main.7320c099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e355b4bd.css",
+    "static/js/main.7320c099.js"
+  ]
+}

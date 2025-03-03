@@ -1,0 +1,41 @@
+/* Cyberpunk theme styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0a0a1f;
+  color: white;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a1f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00f2ff;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00d4ff;
+}
+
+/* Neon text effect */
+.neon-text {
+  text-shadow: 0 0 5px #00f2ff, 0 0 10px #00f2ff, 0 0 15px #00f2ff;
+}
+
+/* Glowing elements */
+.glow {
+  box-shadow: 0 0 10px #00f2ff, 0 0 20px #00f2ff;
+  transition: box-shadow 0.3s ease;
+}
+
+.glow:hover {
+  box-shadow: 0 0 15px #00f2ff, 0 0 30px #00f2ff;
+} 
